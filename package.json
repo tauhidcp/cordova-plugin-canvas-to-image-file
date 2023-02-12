@@ -1,0 +1,25 @@
+{
+  "name": "id.my.tauhidslab.canvas2imagefile",
+  "version": "0.1.0",
+  "description": "cordova plugin to save html5 canvas to image file (.png/.jpg)",
+  "cordova": {
+    "id": "id.my.tauhidslab.canvas2imagefile",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauhidcp/cordova-plugin-canvas-to-image-file.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ahmad Tauhid, S.Kom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tauhidcp/cordova-plugin-canvas-to-image-file/issues"
+  },
+  "homepage": "https://github.com/tauhidcp/cordova-plugin-canvas-to-image-file#readme"
+}
