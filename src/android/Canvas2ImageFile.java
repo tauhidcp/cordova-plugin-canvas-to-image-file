@@ -51,7 +51,7 @@ public class Canvas2ImageFile extends CordovaPlugin {
 				
 				if (imageFile == null){
 				
-					callbackContext.error("error saving qr code to image!");
+					callbackContext.error("error saving canvas to image!");
 				
 				} else {
 
